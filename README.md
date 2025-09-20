@@ -46,7 +46,7 @@ etl-csv-to-sql/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/etl-csv-to-sql.git
+   git clone https://github.com/sarsenbayevzz/etl-csv-to-sql.git
    cd etl-csv-to-sql
    ```
 
