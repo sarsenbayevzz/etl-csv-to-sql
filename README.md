@@ -1,6 +1,6 @@
 # ETL: CSV to SQL
 
-## 📌 Project Overview
+## Project Overview
 This project implements a simple ETL (Extract, Transform, Load) pipeline:
 
 - **Extract**: Read data from CSV files  
@@ -16,7 +16,7 @@ The goal of this project is to demonstrate basic **data engineering skills**, in
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python 3.10+  
 - Pandas  
 - SQLite (for demo purposes)  
@@ -24,7 +24,7 @@ The goal of this project is to demonstrate basic **data engineering skills**, in
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 etl-csv-to-sql/
 │── src/
@@ -42,7 +42,7 @@ etl-csv-to-sql/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
@@ -68,7 +68,7 @@ etl-csv-to-sql/
 
 ---
 
-## ✅ Example
+## Example
 
 **Input CSV** (`data/sample.csv`):
 ```csv
@@ -89,7 +89,7 @@ SELECT * FROM users;
 
 ---
 
-## 🛠️ Next Steps
+## Next Steps
 - Add logging  
 - Add tests (pytest)  
 - Dockerize the project  
